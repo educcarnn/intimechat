@@ -1,2 +1,2 @@
 # intimechat
-Nest e WebSocket projeto de conversa em tempo real
+NestJs, PrismaORM e WebSocket projeto de conversa em tempo real
