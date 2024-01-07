@@ -1,3 +1,5 @@
 # webchat
 
-NestJS, PrismaORM e WebSocket projeto de conversa em tempo real
+NestJS, 
+PrismaORM e 
+WebSocket projeto de conversa em tempo real
