@@ -1,4 +1,3 @@
-// eslint-disable-next-line prettier/prettier
 import {
   WebSocketGateway,
   WebSocketServer,
@@ -11,7 +10,6 @@ import { Server, Socket } from 'socket.io';
 
 @WebSocketGateway()
 export class ChatGateway implements OnGatewayConnection, OnGatewayDisconnect {
-
   @WebSocketServer()
   server: Server;
 
